@@ -6,7 +6,7 @@ Um exemplo muito simples de BDD com SpecFlow
 
 Via Package Manager Console do Visual Studio será necessário instalar:
 
->+ **NUnitTestAdapter**: Install-Package SpecFlow
+>+ **SpecFlow**: Install-Package SpecFlow
 
 >+ **NUnitTestAdapter**: Install-Package
 NUnitTestAdapter
